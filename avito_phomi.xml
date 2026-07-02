@@ -691,10 +691,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s075.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Республика Дагестан, Махачкала</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Каспийск</Id>
@@ -723,10 +737,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s063.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Республика Дагестан, Каспийск</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Дербент</Id>
@@ -753,10 +781,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s071.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Республика Дагестан, Дербент</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Хасавюрт</Id>
@@ -785,10 +827,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s077.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Республика Дагестан, Хасавюрт</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Грозный</Id>
@@ -815,10 +871,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s062.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Чеченская Республика, Грозный</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Назрань</Id>
@@ -844,10 +914,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s075.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Республика Ингушетия, Назрань</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Владикавказ</Id>
@@ -873,10 +957,24 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s057.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Республика Северная Осетия — Алания, Владикавказ</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
   <Ad>
     <Id>BINUG-travertine-service-Пятигорск</Id>
@@ -902,9 +1000,23 @@
       <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v10/travertine-service/p-s071.jpg"/>
     </Images>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и строительство</ServiceType>
-    <ServiceSubtype>Отделочные работы</ServiceSubtype>
+    <ServiceType>Строительство</ServiceType>
+    <ServiceSubtype>Фасадные работы</ServiceSubtype>
     <Address>Ставропольский край, Пятигорск</Address>
     <Price>2300</Price>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <FreeConsultation>Есть</FreeConsultation>
+    <FacadeWork>
+      <Option>Отделочные работы</Option>
+    </FacadeWork>
+    <FinishingServices>
+      <Option>Штукатурные</Option>
+      <Option>Грунтование</Option>
+    </FinishingServices>
   </Ad>
 </Ads>
