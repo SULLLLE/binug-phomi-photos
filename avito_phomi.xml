@@ -1042,8 +1042,10 @@
     </Images>
     <Category>Ремонт и строительство</Category>
     <Address>Республика Дагестан, Махачкала, ул. Бейбулатова, 12</Address>
-    <Weight>25 кг</Weight>
-    <MinSaleQuantity>1</MinSaleQuantity>
+    <UnitOfMeasurment>Килограмм</UnitOfMeasurment>
+    <Weight>25</Weight>
+    <MinPaintConsumptionKg>0.32</MinPaintConsumptionKg>
+    <MaxPaintConsumptionKg>0.4</MaxPaintConsumptionKg>
     <Delivery>
       <Option>ПВЗ</Option>
       <Option>Курьер</Option>
@@ -1057,15 +1059,22 @@
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <GoodsSubType>Строительные смеси</GoodsSubType>
-    <MixesType>Штукатурка</MixesType>
+    <GoodsSubType>Лаки и краски</GoodsSubType>
+    <PaintType>Краски</PaintType>
     <Brand>Другой</Brand>
-    <Series>Другая</Series>
-    <Decorative>Да</Decorative>
-    <MixBase>Акриловая</MixBase>
     <OutdoorUsage>Да</OutdoorUsage>
+    <PaintBase>Акриловая</PaintBase>
+    <PurposeFor>
+      <Option>Фасада</Option>
+      <Option>Стен</Option>
+    </PurposeFor>
+    <SurfaceMaterial>
+      <Option>Бетон</Option>
+      <Option>Штукатурка</Option>
+      <Option>Кирпич</Option>
+      <Option>Газобетон</Option>
+    </SurfaceMaterial>
     <Color>Белый</Color>
-    <PriceType>Килограммы</PriceType>
   </Ad>
   <Ad>
     <Id>SILKCOAT-stone-25kg</Id>
@@ -1087,8 +1096,6 @@
     </Images>
     <Category>Ремонт и строительство</Category>
     <Address>Республика Дагестан, Дагестанские Огни</Address>
-    <Weight>25 кг</Weight>
-    <MinSaleQuantity>1</MinSaleQuantity>
     <Delivery>
       <Option>ПВЗ</Option>
       <Option>Курьер</Option>
@@ -1103,14 +1110,7 @@
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <GoodsSubType>Строительные смеси</GoodsSubType>
-    <MixesType>Штукатурка</MixesType>
-    <Brand>Другой</Brand>
-    <Series>Другая</Series>
-    <Decorative>Да</Decorative>
-    <MixBase>Минеральная</MixBase>
-    <OutdoorUsage>Да</OutdoorUsage>
-    <Color>Белый</Color>
-    <PriceType>Килограммы</PriceType>
+    <MixesType>Другое</MixesType>
   </Ad>
   <Ad>
     <Id>SILKCOAT-acrylic-15l</Id>
