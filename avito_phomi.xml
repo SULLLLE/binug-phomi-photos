@@ -1019,4 +1019,258 @@
       <Option>Грунтование</Option>
     </FinishingServices>
   </Ad>
+  <Ad>
+    <Id>SILKCOAT-travertino-25kg</Id>
+    <ManagerName>Арсен</ManagerName>
+    <Title>Жидкий травертин SILKCOAT Travertino 25 кг — фасадное покрытие</Title>
+    <Description><![CDATA[Фактура настоящего травертина без цены камня. Travertino — декоративное фасадное покрытие на акриловой основе от турецкого бренда SILKCOAT: наносится как штукатурка, после лакировки держит дагестанское солнце и дожди.
+
+Что важно знать:
+— ведро 25 кг закрывает 8–10 м² в два слоя;
+— колеруется: стандарт (белый) — 6 200 ₽, цветной — 7 250 ₽;
+— продукция с гос. регистрацией (СГР ЕАЭС);
+— полная система: грунт + Travertino + защитный лак — подберём и посчитаем под ваш объект.
+
+Мы кладём этот материал сами с 2012 года — фасады наша профессия, поэтому подскажем по нанесению честно, а не по брошюре. В фото — наши объекты.
+
+Образцы фактур можно потрогать в шоуруме в Махачкале (ул. Бейбулатова, 12). Напишите размеры стен — бесплатно посчитаем количество материала на весь фасад.]]></Description>
+    <Images>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v11/silkcoat/travertino.png"/>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v3/travertine-service/01.jpg"/>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v3/travertine-service/12.jpg"/>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v4/travertine-service/13.jpg"/>
+    </Images>
+    <Category>Ремонт и строительство</Category>
+    <Address>Республика Дагестан, Махачкала, ул. Бейбулатова, 12</Address>
+    <Weight>25 кг</Weight>
+    <MinSaleQuantity>1</MinSaleQuantity>
+    <Delivery>
+      <Option>ПВЗ</Option>
+      <Option>Курьер</Option>
+    </Delivery>
+    <WeightForDelivery>26</WeightForDelivery>
+    <LengthForDelivery>35</LengthForDelivery>
+    <HeightForDelivery>40</HeightForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <Price>6200</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <GoodsSubType>Строительные смеси</GoodsSubType>
+    <MixesType>Штукатурка</MixesType>
+    <Brand>Другой</Brand>
+    <Series>Другая</Series>
+    <Decorative>Да</Decorative>
+    <MixBase>Акриловая</MixBase>
+    <OutdoorUsage>Да</OutdoorUsage>
+    <Color>Белый</Color>
+    <PriceType>Килограммы</PriceType>
+  </Ad>
+  <Ad>
+    <Id>SILKCOAT-stone-25kg</Id>
+    <ManagerName>Арсен</ManagerName>
+    <Title>Минеральная штукатурка SILKCOAT Stone 25 кг — фасадная, фактурная</Title>
+    <Description><![CDATA[Stone — минеральная декоративная штукатурка на акриловой основе для фасада: плотная каменная фактура, которая прячет неровности основания и не боится улицы.
+
+Коротко по делу:
+— ведро 25 кг — примерно на 8 м²;
+— для наружных и внутренних работ, колеруется в массе;
+— продукция с гос. регистрацией (СГР ЕАЭС);
+— цена 13 800 ₽ за ведро 25 кг.
+
+Фасадами занимаемся с 2012 года и этот материал знаем в работе: расскажем, какое основание и грунт нужны именно под ваш случай, а не «в среднем».
+
+Образцы — в шоуруме в Махачкале (ул. Бейбулатова, 12). Напишите площадь стен в чат — бесплатно посчитаем, сколько вёдер нужно, без «запаса на всякий случай».]]></Description>
+    <Images>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v11/silkcoat/stone.png"/>
+    </Images>
+    <Category>Ремонт и строительство</Category>
+    <Address>Республика Дагестан, Дагестанские Огни</Address>
+    <Weight>25 кг</Weight>
+    <MinSaleQuantity>1</MinSaleQuantity>
+    <Delivery>
+      <Option>ПВЗ</Option>
+      <Option>Курьер</Option>
+    </Delivery>
+    <WeightForDelivery>26</WeightForDelivery>
+    <LengthForDelivery>35</LengthForDelivery>
+    <HeightForDelivery>40</HeightForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <Price>13800</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <GoodsSubType>Строительные смеси</GoodsSubType>
+    <MixesType>Штукатурка</MixesType>
+    <Brand>Другой</Brand>
+    <Series>Другая</Series>
+    <Decorative>Да</Decorative>
+    <MixBase>Минеральная</MixBase>
+    <OutdoorUsage>Да</OutdoorUsage>
+    <Color>Белый</Color>
+    <PriceType>Килограммы</PriceType>
+  </Ad>
+  <Ad>
+    <Id>SILKCOAT-acrylic-15l</Id>
+    <ManagerName>Арсен</ManagerName>
+    <Title>Краска акриловая SILKCOAT Acrylic 15 л для стен и потолков</Title>
+    <Description><![CDATA[Acrylic — матовая краска на чистом акриловом связующем для внутренней отделки стен и потолков. Водная основа: без резкого запаха, можно жить в квартире во время ремонта.
+
+По делу:
+— банка 15 л — на 60–70 м² в один слой;
+— белая база 14 250 ₽, колерованная — 20 100 ₽; подберём цвет под ваш интерьер;
+— продукция с гос. регистрацией (СГР ЕАЭС);
+— ровно ложится по штукатурке, шпаклёвке, гипсокартону, бетону.
+
+Мы — официальный представитель SILKCOAT, отделкой занимаемся с 2012 года: подскажем по подготовке основания и грунту, чтобы краска легла с первого раза.
+
+Образцы и выкрасы — в шоуруме в Махачкале (ул. Бейбулатова, 12). Напишите площадь комнат — бесплатно посчитаем расход и количество банок.]]></Description>
+    <Images>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v11/silkcoat/acrylic.png"/>
+    </Images>
+    <Category>Ремонт и строительство</Category>
+    <Address>Республика Дагестан, Каспийск</Address>
+    <UnitOfMeasurment>Литр</UnitOfMeasurment>
+    <PackageVolume>15</PackageVolume>
+    <MinPaintConsumptionLiters>4</MinPaintConsumptionLiters>
+    <MaxPaintConsumptionLiters>4.7</MaxPaintConsumptionLiters>
+    <Delivery>
+      <Option>ПВЗ</Option>
+      <Option>Курьер</Option>
+    </Delivery>
+    <WeightForDelivery>18</WeightForDelivery>
+    <LengthForDelivery>35</LengthForDelivery>
+    <HeightForDelivery>40</HeightForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <Price>14250</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <GoodsSubType>Лаки и краски</GoodsSubType>
+    <PaintType>Краски</PaintType>
+    <Brand>Другой</Brand>
+    <OutdoorUsage>Нет</OutdoorUsage>
+    <PaintBase>Акриловая</PaintBase>
+    <PurposeFor>
+      <Option>Стен</Option>
+      <Option>Потолка</Option>
+    </PurposeFor>
+    <SurfaceMaterial>
+      <Option>Штукатурка</Option>
+      <Option>Шпаклёвка</Option>
+      <Option>Гипсокартон</Option>
+      <Option>Бетон</Option>
+    </SurfaceMaterial>
+    <Color>Белый</Color>
+  </Ad>
+  <Ad>
+    <Id>SILKCOAT-latex-25kg</Id>
+    <ManagerName>Арсен</ManagerName>
+    <Title>Краска интерьерная SILKCOAT Latex 25 кг, акриловая водоэмульсия</Title>
+    <Description><![CDATA[Latex — рабочая лошадка для больших объёмов: акриловая водоэмульсионная краска для внутренней отделки стен и потолков. Когда надо покрасить дом, офис или объект целиком и не разориться.
+
+Считайте сами:
+— ведро 25 кг — на 60–80 м²;
+— цена 6 950 ₽ за ведро — одна из самых честных цен за м² в этом классе;
+— продукция с гос. регистрацией (СГР ЕАЭС);
+— водная основа, без резкого запаха.
+
+Берёте несколько вёдер на объект — напишите, обсудим условия. Мы официальный представитель SILKCOAT, работаем с бригадами и прорабами по всему Дагестану с 2012 года.
+
+Забрать можно из шоурума в Махачкале (ул. Бейбулатова, 12) или доставкой. Напишите метраж — бесплатно посчитаем, сколько вёдер нужно на ваш объект.]]></Description>
+    <Images>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v11/silkcoat/latex.png"/>
+    </Images>
+    <Category>Ремонт и строительство</Category>
+    <Address>Республика Дагестан, Хасавюрт</Address>
+    <UnitOfMeasurment>Килограмм</UnitOfMeasurment>
+    <Weight>25</Weight>
+    <MinPaintConsumptionKg>2.4</MinPaintConsumptionKg>
+    <MaxPaintConsumptionKg>3.2</MaxPaintConsumptionKg>
+    <Delivery>
+      <Option>ПВЗ</Option>
+      <Option>Курьер</Option>
+    </Delivery>
+    <WeightForDelivery>26</WeightForDelivery>
+    <LengthForDelivery>35</LengthForDelivery>
+    <HeightForDelivery>40</HeightForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <Price>6950</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <GoodsSubType>Лаки и краски</GoodsSubType>
+    <PaintType>Краски</PaintType>
+    <Brand>Другой</Brand>
+    <OutdoorUsage>Нет</OutdoorUsage>
+    <PaintBase>Акриловая</PaintBase>
+    <PurposeFor>
+      <Option>Стен</Option>
+      <Option>Потолка</Option>
+    </PurposeFor>
+    <SurfaceMaterial>
+      <Option>Штукатурка</Option>
+      <Option>Шпаклёвка</Option>
+      <Option>Гипсокартон</Option>
+      <Option>Бетон</Option>
+    </SurfaceMaterial>
+    <Color>Белый</Color>
+  </Ad>
+  <Ad>
+    <Id>SILKCOAT-velvetto-15kg</Id>
+    <ManagerName>Арсен</ManagerName>
+    <Title>Декоративная краска SILKCOAT Velvetto 15 кг — эффект бархата</Title>
+    <Description><![CDATA[Velvetto — премиальная декоративная краска с эффектом бархата: стена мягко переливается при смене света, смотрится как ткань, а не как покраска. Для гостиных, спален, ниш и акцентных стен.
+
+Что внутри цены:
+— ведро 15 кг — на 50–60 м², это дешевле многих «эффектов» в пересчёте на м²;
+— стандарт 32 000 ₽, колерованный вариант — 46 250 ₽;
+— продукция с гос. регистрацией (СГР ЕАЭС);
+— акриловый сополимер, водная основа.
+
+Такой материал важно один раз увидеть вживую: в шоуруме в Махачкале (ул. Бейбулатова, 12) есть выкрасы — приходите, посмотрите, как играет фактура под светом.
+
+Пришлите фото комнаты и размеры — бесплатно подскажем, где эффект сработает лучше всего, и посчитаем материал.]]></Description>
+    <Images>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v11/silkcoat/velvetto.png"/>
+    </Images>
+    <Category>Ремонт и строительство</Category>
+    <Address>Республика Дагестан, Избербаш</Address>
+    <UnitOfMeasurment>Килограмм</UnitOfMeasurment>
+    <Weight>15</Weight>
+    <MinPaintConsumptionKg>3.3</MinPaintConsumptionKg>
+    <MaxPaintConsumptionKg>4</MaxPaintConsumptionKg>
+    <Delivery>
+      <Option>ПВЗ</Option>
+      <Option>Курьер</Option>
+    </Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
+    <LengthForDelivery>35</LengthForDelivery>
+    <HeightForDelivery>35</HeightForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <Price>32000</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <GoodsSubType>Лаки и краски</GoodsSubType>
+    <PaintType>Краски</PaintType>
+    <Brand>Другой</Brand>
+    <OutdoorUsage>Нет</OutdoorUsage>
+    <PaintBase>Акриловая</PaintBase>
+    <PurposeFor>
+      <Option>Стен</Option>
+      <Option>Потолка</Option>
+    </PurposeFor>
+    <SurfaceMaterial>
+      <Option>Штукатурка</Option>
+      <Option>Шпаклёвка</Option>
+      <Option>Гипсокартон</Option>
+    </SurfaceMaterial>
+    <Color>Белый</Color>
+  </Ad>
 </Ads>
