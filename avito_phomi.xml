@@ -1273,4 +1273,39 @@
     </SurfaceMaterial>
     <Color>Белый</Color>
   </Ad>
+  <Ad>
+    <Id>LEGACY-gibkaya-keramika-8140917344</Id>
+    <DateEnd>03.07.2026 23:00</DateEnd>
+    <AvitoId>8140917344</AvitoId>
+    <ManagerName>Арсен</ManagerName>
+    <Title>Гибкая керамика PHOMI — фасадные панели</Title>
+    <Description><![CDATA[Гибкая керамика PHOMI — фасадные панели. Это объявление устарело: актуальные объявления по фактурам PHOMI (травертин, мрамор, дерево, камень) — в нашем профиле. Напишите в чат — подскажем по фактурам, посчитаем количество листов бесплатно. Шоурум в Махачкале (ул. Бейбулатова, 12).]]></Description>
+    <Images>
+      <Image url="https://cdn.jsdelivr.net/gh/SULLLLE/binug-phomi-photos@v2/covers/phomi-greece.jpg"/>
+    </Images>
+    <Category>Ремонт и строительство</Category>
+    <Address>Республика Дагестан, Махачкала, ул. Бейбулатова, 12</Address>
+    <PriceFor>Штуку</PriceFor>
+    <MinSaleQuantity>1</MinSaleQuantity>
+    <Price>3500</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <GoodsSubType>Отделка</GoodsSubType>
+    <FinishingMaterialsType>Наружная отделка и декоративный камень</FinishingMaterialsType>
+    <ExteriorFinishingDecorativeStoneSubType>Сайдинг и фасадные панели</ExteriorFinishingDecorativeStoneSubType>
+    <SidingType>Фасадная панель</SidingType>
+    <Brand>Phomi</Brand>
+    <Shape>Камень</Shape>
+    <PanelsType>Гибкая керамика</PanelsType>
+    <PurposeFor>
+      <Option>Фасада</Option>
+    </PurposeFor>
+    <Length>1200</Length>
+    <Width>600</Width>
+    <PanelSquareFootage>0.72</PanelSquareFootage>
+    <Color>Бежевый</Color>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+  </Ad>
 </Ads>
